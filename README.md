@@ -18,7 +18,7 @@
 
 My journey with I.T. began in the late 1990's writing web pages in HTML and Javascript. Dreamweaver was around then but I always thought it was cheating to not code.
 
-I studied Economics at uni in order to "itch a scratch" I had for further knowledge in finance, but was soon back with I.T with my first job in the early 2000's. My first role was supporting medical healthcare systems written in a little known language called MUMPS.
+I studied Economics at uni in order to "itch a scratch" I had for further knowledge in finance, but was soon back with I.T with my first job in the early 2000's. My first role was supporting medical healthcare systems written in a little known language called <a href="https://en.wikipedia.org/wiki/MUMPS">MUMPS</a>.
 Coming from a background coding in Visual Basic, this was a bit of a "culture shock". 
 
 From here, I continued in various roles, covering most aspects of the classic system lifecycle. I've supported, developed, implemented, migrated and integrated systems. I've worked in positions covering software, systems and databases.
@@ -28,9 +28,9 @@ Becoming disillusioned with I.T., I found Linux and open source. I found express
 
 I've understood that collaboration with tangible yield doesn't have to apply to just open source I.T. Open source is the future, and my firm belief is that it can be used to overcome many of the social issues we face today. 
 
-I've co-founded an open source enterprise called Philance/Jobwards dealing with barriers to employment. I've also attempted to use my experiences to further the development of open source health care IT systems (focused around VistA)
+I've co-founded an open source enterprise called <a href="https://www.youtube.com/watch?v=E0VCDbrVSwQ">Philance/Jobwards</a> dealing with barriers to employment. I've also attempted to use my experiences to further the development of open source health care IT systems (focused around <a href="https://en.wikipedia.org/wiki/VistA">VistA</a>)
 
-My journey with IT has also come "full circle" in that the those first confused interactions with MUMPS (now known as M), has now become active contributions to the development of M, in the form of contributions to the open source YottaDB project.
+My journey with IT has also come "full circle" in that the those first confused interactions with MUMPS (now known as M), has now become active contributions to the development of M, in the form of contributions to the open source <a href="https://yottadb.com">YottaDB</a> project.
 
 **I'm always keen to know about new open source projects, so if you have a project and think I can help, don't hesitate to connect**
 
