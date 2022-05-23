@@ -32,4 +32,6 @@ I've co-founder an open source enterprise called Philance/Jobwards dealing with 
 
 My journey with IT has also come "full circle" in that the those first confused interactions with MUMPS (now known as M) has now become active contributions to the development of M in the form of contributions to the open source YottaDB project.
 
+**I'm always keen to know about new open source projects, so if you have a project and think I can help, don't hesitate to connect**
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamSailopal)](https://github.com/RamSailopal/github-readme-stats)
