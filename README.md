@@ -13,9 +13,7 @@
     <img src="https://camo.githubusercontent.com/c0bf8616af20c27426a515e3c15ecf5252b5790f9a71a406123ed71445dd40b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966792d3145443736303f267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" alt="Spotify Badge" data-canonical-src="https://img.shields.io/badge/Spotify-1ED760?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" style="max-width: 100%;">
  </a>
 </div>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamSailopal)](https://github.com/RamSailopal/github-readme-stats)
-
+  
 ### What's my story?
 
 My journey with I.T. began in the late 1990's writing web pages in HTML and Javascript. Dreamweaver was around then but I always thought it was cheating to not code.
@@ -34,3 +32,4 @@ I've co-founder an open source enterprise called Philance/Jobwards dealing with 
 
 My journey with IT has also come "full circle" in that the those first confused interactions with MUMPS (now known as M) has now become active contributions to the development of M in the form of contributions to the open source YottaDB project.
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamSailopal)](https://github.com/RamSailopal/github-readme-stats)
