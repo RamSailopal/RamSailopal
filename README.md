@@ -34,4 +34,24 @@ My journey with IT has also come "full circle" in that the those first confused 
 
 **I'm always keen to know about new open source projects, so if you have a project and think I can help, don't hesitate to connect**
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamSailopal)](https://github.com/RamSailopal/github-readme-stats)
+<div style="border: 1px solid black; margin: 1rem; padding: 2rem 2rem; text-align: center;">
+  <div style="display: inline-block; border: 1px solid red; padding: 1rem 1rem; vertical-align: middle;"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamSailopal"></img>
+  </div>
+
+## Packages Solutions
+
+  <div style="display: inline-block; border: 1px solid red; padding: 1rem 1rem; vertical-align: middle;">
+  <a href="https://hub.docker.com/u/ramb0" rel="nofollow">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker Badge" data-canonical-src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" style="max-width: 100%;" height=80 width=80>
+  </a>
+  <a href="https://galaxy.ansible.com/ramsailopal" rel="nofollow">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Tf5jR5NwYi1TjvWtC4-2puMT2ewswetzA6HLL8rvrB0YKUvvWGvx&usqp=CAU" alt="Ansible Badge" data-canonical-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Tf5jR5NwYi1TjvWtC4-2puMT2ewswetzA6HLL8rvrB0YKUvvWGvx&usqp=CAU" style="max-width: 100%;" height=80 width=80>
+  </a>
+  <a href="https://github.com/marketplace/actions/m-routine-compilation-check" rel="nofollow">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Github Badge" data-canonical-src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" style="max-width: 100%;" height=80 width=120>
+  </a>
+  </div>
+</div> 
+
+
