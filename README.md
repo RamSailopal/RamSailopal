@@ -39,7 +39,7 @@ My journey with IT has also come "full circle" in that the those first confused 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamSailopal"></img>
   </div>
 
-## Packages Solutions
+## Packaged Solutions
 
   <div style="display: inline-block; border: 1px solid red; padding: 1rem 1rem; vertical-align: middle;">
   <a href="https://hub.docker.com/u/ramb0" rel="nofollow">
