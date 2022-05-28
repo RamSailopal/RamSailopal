@@ -22,7 +22,7 @@ I studied Economics at uni in order to "itch a scratch" I had for further knowle
 Coming from a background coding in Visual Basic, this was a bit of a "culture shock". 
 
 From here, I continued in various roles, covering most aspects of the classic system lifecycle. I've supported, developed, implemented, migrated and integrated systems. I've worked in positions covering software, systems and databases.
-I always felt restricted and unsatisfied with the "labels", "ceilings" and "politics" that came with corporate I.T. though. I've quickly become bored and wanted more.
+I always felt restricted and unsatisfied with the "labels", "ceilings" and "politics" that came with corporate I.T. though. I quickly became bored and wanted more.
 
 Becoming disillusioned with I.T., I found Linux and open source. I found expression and collaboration. I found the ability to learn and grow off co-working in an unrivalled way. The ability to work with some of the best and most creative minds in the industry with absolutely no barriers.
 
