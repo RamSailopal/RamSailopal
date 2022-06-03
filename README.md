@@ -30,7 +30,7 @@ I've understood that collaboration with tangible yield doesn't have to apply to 
 
 I've co-founded an open source enterprise called <a href="https://www.youtube.com/watch?v=E0VCDbrVSwQ">Philance/Jobwards</a> dealing with barriers to employment. I've also attempted to use my experiences to further the development of open source health care IT systems (focused around <a href="https://en.wikipedia.org/wiki/VistA">VistA</a>)
 
-My journey with IT has also come "full circle" in that the those first confused interactions with MUMPS (now known as M), has now become active contributions to the development of M, in the form of contributions to the open source <a href="https://yottadb.com">YottaDB</a> project.
+My journey with IT has also come "full circle" in that, those first confused interactions with MUMPS (now known as M), has now become active contributions to the development of M, in the form of contributions to the open source <a href="https://yottadb.com">YottaDB</a> project.
 
 **I'm always keen to know about new open source projects, so if you have a project and think I can help, don't hesitate to connect**
 
