@@ -28,6 +28,8 @@ Becoming disillusioned with I.T., I found Linux and open source. I found express
 
 I've understood that collaboration with tangible yield doesn't have to apply to just open source I.T. Open source is the future, and my firm belief is that it can be used to overcome many of the social issues we face today. 
 
+I run a Linux consultancy called <a href="https://www.thelinuxguys.co.uk">the Linux Guys</a>
+
 I've co-founded an open source enterprise called <a href="https://www.youtube.com/watch?v=E0VCDbrVSwQ">Philance/Jobwards</a> dealing with barriers to employment. I've also attempted to use my experiences to further the development of open source health care IT systems (focused around <a href="https://en.wikipedia.org/wiki/VistA">VistA</a>) through various R&D solutions architecture projects.
 
 My journey with IT has also come "full circle" in that, those first confused interactions with MUMPS (now known as M), has now become active contributions to the development of M, in the form of contributions to the open source <a href="https://yottadb.com">YottaDB</a> project.
