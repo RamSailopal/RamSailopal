@@ -44,7 +44,7 @@ My journey with IT has also come "full circle" in that, those first confused int
 ## Skills
 
 <table>
-  <tr><th>Infrastructure as Code</th><th>Configuration as Code</th><th>Cloud</th><th>CI/CD (pipelines)</th><th>SQL Databases</th><th>NoSQL Databases</th><th>Code/Scripting</th><th>Operating Systems</th><th>Microservices</th><th>Frameworks</th>/tr>
+  <tr><th>Infrastructure as Code</th><th>Configuration as Code</th><th>Cloud</th><th>CI/CD (pipelines)</th><th>SQL Databases</th><th>NoSQL Databases</th><th>Code/Scripting</th><th>Operating Systems</th><th>Microservices</th><th>Frameworks</th></tr>
   <tr><td>Terraform</td><td>Ansible</td><td>AWS</td><td>Jenkins</td><td>Mysql/MariaDB</td><td>YottaDB/GTm</td><td>Python</td><td>Linux</td><td>Docker</td><td>nodejs</td></tr>
   <tr><td>Vagrant</td><td></td><td>Digital Ocean</td><td>Github</td><td>Microsoft SQL</td><td>Intersystems Cache</td><td>Bash</td><td></td><td>Kubernetes</td><td>Reactjs</td></tr>
   <tr><td></td><td></td><td>Linode</td><td>Gitlab<td></td><td></td><td>PHP</td><td></td><td>Docker Swarm</td><td>Django</td></tr>
