@@ -2,9 +2,6 @@
 <div id="user-content-badges" dir="auto">
   <a href="https://www.linkedin.com/in/raman-sailopal-5266457a/" rel="nofollow">
     LinkedIn  </a>
-   <a href="https://twitter.com/ramansailopal" rel="nofollow">
-    Twitter
-  </a>
   <a href="https://www.youtube.com/channel/UCpBwomnJVv4S0Dd-jcFdNPw" rel="nofollow">
     <img src="https://img.shields.io/youtube/channel/views/UCpBwomnJVv4S0Dd-jcFdNPw?label=YouTube%20Channel&style=social" alt="YouTube Badge" data-canonical-src="https://img.shields.io/youtube/channel/views/UCpBwomnJVv4S0Dd-jcFdNPw?label=YouTube%20Channel&style=social" style="max-width: 100%;">
   </a>
